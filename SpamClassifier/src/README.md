@@ -1,1 +1,1 @@
-Spam classifier using SVM.
+Spam classifier using SVM trained with the Spam Assassin public corpus.
